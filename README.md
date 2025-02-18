@@ -4,7 +4,8 @@
 Phishing Email Extractor is a Python GUI tool designed to analyze phishing emails. It extracts URLs, domains, and IP addresses from `.eml` files and checks them against VirusTotal and AbuseIPDB to identify potential threats.
 
 ## Screenshot
-![Phishing Email Extractor Screenshot](https://raw.githubusercontent.com/iamelmo1/Phishing-Email-Extractor/main/Screenshot 2025-02-18 180757.png.png)
+
+![Screenshot 2025-02-18 180757](https://github.com/user-attachments/assets/5b490887-9c16-474c-af92-a669f1ac3909)
 
 
 ## Features  

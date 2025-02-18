@@ -1,0 +1,29 @@
+# Ignore PyCharm project settings
+.idea/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore executables and scripts
+*.exe
+*.bat
+*.ps1
+*.dll
+*.bin
+
+# Ignore log and temporary files
+*.log
+*.tmp
+
+# Ignore email files (if not needed in the repo)
+*.eml

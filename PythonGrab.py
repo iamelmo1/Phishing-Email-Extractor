@@ -70,8 +70,8 @@ def decode_unicode(text):
 
 
 # API Keys (replace with your own API keys)
-VIRUSTOTAL_API_KEY = "69d1f77eda0669663353745ec843c4e73f475547264b366c2c81f80947d31cd5"
-ABUSEIPDB_API_KEY = "6d2bc4f67c4580129adc4945df457aa6f2203037aaa76f9cb707b34a7102eae36d55ef6c13813cd5"
+VIRUSTOTAL_API_KEY = "insert key here"
+ABUSEIPDB_API_KEY = "insert key here"
 
 
 # Function to extract URLs using BeautifulSoup
